@@ -96,6 +96,6 @@ Clicking to view the different data for each year displayed in the histogram "co
 I sincerely appreciate UW Professor Bo Zhao for providing the lectures and materials to analyze the project.
 
 ## Reference:
-#### [1] The Rothenberg Law Firm: https://injurylawyer.com/car-accidents/has-the-covid-19-pandemic-reduced-the-number-of-car-accident-fatalities/
-#### [2] data.Seattle.gov: https://data.seattle.gov/dataset/Collisions/nuam-5pkc
-#### [3] System architecture for web mapping: https://www.e-education.psu.edu/geog585/node/684
+[1] The Rothenberg Law Firm: https://injurylawyer.com/car-accidents/has-the-covid-19-pandemic-reduced-the-number-of-car-accident-fatalities/
+[2] data.Seattle.gov: https://data.seattle.gov/dataset/Collisions/nuam-5pkc
+[3] System architecture for web mapping: https://www.e-education.psu.edu/geog585/node/684
