@@ -1,5 +1,7 @@
 # Final Essay related to Project
 
+![CarCollision](https://user-images.githubusercontent.com/77243665/110905013-a941f000-82be-11eb-8789-bf8edcf28f66.png)
+
 # Digital Geography for Seattle Car Collisions from 2018 to 2020
 
 ## Introduction
