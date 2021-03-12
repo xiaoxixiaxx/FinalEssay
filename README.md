@@ -11,7 +11,7 @@ The goal of this Seattle car collisions project comes from thinking about these 
 
 #### B. the major functions
 
-        * Thematic Maps & Interactive Elements
+        ** Thematic Maps & Interactive Elements
         * Heat maps
         * Side Panel & chart (Interactive Elements)
         * Basemaps
