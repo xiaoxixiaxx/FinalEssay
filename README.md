@@ -91,3 +91,8 @@ The dashboard still has parts worth sharing and adding. It can increase the caus
 By observing the visualized vehicle collision location of the project, the display in 2018 and 2019 are relatively similar. The most frequent collisions are on roads in downtown Seattle. Secondly, collisions on major traffic roads are also more frequent. There are relatively few collisions on small roads in cities. On the other hand, Highway I-5 is the section with the least number of vehicle collisions. The difference in 2020 is that the collision sites are more scattered and not clustered in downtown Seattle. The map also shows that car collisions in some social places such as parks, schools, and parking lots. In addition, the farther away from the urban area, the lower the incidence of collisions.
 
 Clicking to view the different data for each year displayed in the histogram "comparison for Each Year". From 2018 to 2020, the number of car collisions in Seattle has been declining year by year. Due to the impact of covid-19, the data for 2020 has fallen. This data illustrates the reduction in economic activity after covid-19, and the economic downturn and recession in Seattle. People's lives have also been affected, towards a period of economic weakness. In addition, the data in 2019 is also significantly lower than in 2019. This allows us to see the changes in the automotive industry. Perhaps more advanced technology and safety technologies are used in the automobile manufacturing industry, thereby reducing the rate of car collisions. The decrease in collisions year by year also points out the efforts of transportation agencies in safety policies and the improvement of people's driving habits.
+
+
+## Acknowledgement
+
+## Reference:
