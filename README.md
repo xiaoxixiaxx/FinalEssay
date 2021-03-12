@@ -92,7 +92,10 @@ By observing the visualized vehicle collision location of the project, the displ
 
 Clicking to view the different data for each year displayed in the histogram "comparison for Each Year". From 2018 to 2020, the number of car collisions in Seattle has been declining year by year. Due to the impact of covid-19, the data for 2020 has fallen. This data illustrates the reduction in economic activity after covid-19, and the economic downturn and recession in Seattle. People's lives have also been affected, towards a period of economic weakness. In addition, the data in 2019 is also significantly lower than in 2019. This allows us to see the changes in the automotive industry. Perhaps more advanced technology and safety technologies are used in the automobile manufacturing industry, thereby reducing the rate of car collisions. The decrease in collisions year by year also points out the efforts of transportation agencies in safety policies and the improvement of people's driving habits.
 
-
 ## Acknowledgement
+I sincerely appreciate UW Professor Bo Zhao for providing the lectures and materials to analyze the project.
 
 ## Reference:
+[1] The Rothenberg Law Firm: https://injurylawyer.com/car-accidents/has-the-covid-19-pandemic-reduced-the-number-of-car-accident-fatalities/
+[2] data.Seattle.gov: https://data.seattle.gov/dataset/Collisions/nuam-5pkc
+[3] System architecture for web mapping: https://www.e-education.psu.edu/geog585/node/684
