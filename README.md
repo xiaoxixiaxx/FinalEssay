@@ -45,7 +45,9 @@ The data created on October 15, 2020, updated on December 31, 2020.
 
 ## Systematic architecture
 In the project, its creation, provision, and use are realized by the physical machine shown in the picture. They are divided into external internet and internal network, including administrator, web client, web server, geospatial server, file server, database server.
+
 ![architecture](https://user-images.githubusercontent.com/77243665/110904342-ab577f00-82bd-11eb-93ab-45bc7b0811f1.jpg)
+
 > A web server that acts as a web entry point into your organization's network. This is also called a proxy server. It is protected by firewalls that shield malicious traffic into your internal network. It's also a place where you can put web application code (such as HTML and JavaScript files) for your web maps.
 > A geospatial web services server that has specialized software and processing power for drawing maps, responding to feature queries, and performing GIS analysis operations.
 > A database and/or file server holding all of your GIS data. This machine might be equipped with redundant storage mechanisms and regular backup scripts that prevent the loss of data.
