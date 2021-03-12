@@ -66,13 +66,15 @@ Moreover, the data flowed in between the client and server. The client's operati
 
    ![icon](https://user-images.githubusercontent.com/77243665/110905283-16ee1c00-82bf-11eb-8e87-dfa3031de454.png)
 
-* The zoom function allows users to focus on the geographic location of each car collision.(pic)
+* The zoom function allows users to focus on the geographic location of each car collision.
 
 * The user interface provides a legend and maps switcher, which adds user interaction.
 
    ![Legend](https://user-images.githubusercontent.com/77243665/110905625-9c71cc00-82bf-11eb-88c1-c6d47caa57be.png)
 
-* There are rich interactive functions in the side panel, (choose years picture) to meet more customers' needs and examinations.
+* There are rich interactive functions in the side panel to meet more customers' needs and examinations.
+
+   ![ChooseYears](https://user-images.githubusercontent.com/77243665/110905761-d773ff80-82bf-11eb-8c05-6b588f8e93a4.png)
 
 ## Cons and Pros
 The disadvantage of this dashboard is that it does not separately visualize the number of deaths caused by traffic accidents. The data includes all types of car collisions. Therefore, the data displayed on the dashboard is not enough to confirm that traffic accidents during covid-19 were more frequent before covid-19 occurred. The reason for this deficiency is that the data is large and difficult to subdivide in a short period of time. I will continue to improve this project.
