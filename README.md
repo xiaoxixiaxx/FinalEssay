@@ -68,7 +68,9 @@ Moreover, the data flowed in between the client and server. The client's operati
 
 * The zoom function allows users to focus on the geographic location of each car collision.(pic)
 
-* The user interface provides a legend and maps switcher, which adds user interaction (legend pictures). 
+* The user interface provides a legend and maps switcher, which adds user interaction.
+
+   ![Legend](https://user-images.githubusercontent.com/77243665/110905625-9c71cc00-82bf-11eb-88c1-c6d47caa57be.png)
 
 * There are rich interactive functions in the side panel, (choose years picture) to meet more customers' needs and examinations.
 
