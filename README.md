@@ -62,7 +62,9 @@ Moreover, the data flowed in between the client and server. The client's operati
 ## Critique UI/UX 
 * The user interface and user experience depend on the map design and interactive functions of the map. 
 
-* The map interface includes 4 different basemaps, which display the base map, satellite map, night scene mode and street theme basemap respectively. Multiple basemaps interfaces give users more choices. And the use of the icon of the collision graphic enhances the user's attention to the theme and arouses the user's emotions. (icon pic)
+* The map interface includes 4 different basemaps, which display the base map, satellite map, night scene mode and street theme basemap respectively. Multiple basemaps interfaces give users more choices. And the use of the icon of the collision graphic enhances the user's attention to the theme and arouses the user's emotions.
+
+![icon](https://user-images.githubusercontent.com/77243665/110905283-16ee1c00-82bf-11eb-8e87-dfa3031de454.png)
 
 * The zoom function allows users to focus on the geographic location of each car collision.(pic)
 
