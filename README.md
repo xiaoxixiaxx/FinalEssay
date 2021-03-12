@@ -2,7 +2,7 @@
 
 ![CarCollision](https://user-images.githubusercontent.com/77243665/110905013-a941f000-82be-11eb-8789-bf8edcf28f66.png)
 
-# Digital Geography for Seattle Car Collisions from 2018 to 2020  [Link for the Project]
+# Digital Geography for Seattle Car Collisions from 2018 to 2020  [Link for the Project](https://xiaoxixiaxx.github.io/Dashboard_SeattleCarCollision/)
 
 ## Introduction
 We have just passed the 2020 covid-19 pandemic. While looking forward to the popularization of vaccines, we are also thinking about the changes the epidemic has brought to people and how the epidemic will affect people's daily lives. As we have observed during the epidemic, when we go out and drive on the road, we can obviously feel that there are fewer vehicles on the road and the traffic volume has dropped drastically. The number of people driving cars seems to have been greatly reduced. So, does the reduction in traffic reduce traffic accidents? Will covid-19 affect traffic safety? Related articles give such reports,
