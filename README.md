@@ -45,7 +45,7 @@ The data created on October 15, 2020, updated on December 31, 2020.
 * Publisher: Seattle IT
 * Dataset Owner: Seattle City GIS Program
 * Data processing: Use Python to grab the available data we need from raw data, such as all data about car crash information from 2018 to 2020. Use QGIS to convert the available data into shapefile types and generate tile layers of raster format, such as basemaps and heatmaps.
-* Data Type：csv format, Shapefile format, raster format.
+* Data Format：CSV format, Shapefile format, raster format.
 
 ## Systematic architecture
 In the project, its creation, provision, and use are realized by the physical machine shown in the picture. They are divided into external internet and internal network, including administrator, web client, web server, geospatial server, file server, database server.
