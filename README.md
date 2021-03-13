@@ -15,7 +15,7 @@ The goal of this Seattle car collisions project comes from thinking about these 
 
 ### B. the major functions
 
-* Side Panel & Chart (responsive design): The interactive Side Panel displays the specific data of car collision from 2018 to 2020 each year, and users can switch options to view. The Chart with responsive design displays the car collision information for each month of three years and compares the correlation and difference between the data at different times in the histogram.
+* Side Panel & Chart (responsive design): The interactive Side Panel displays the specific data of car collision from 2018 to 2020 each year, and users can switch options to view. The Chart with responsive design displays the car collision information for each month in three years and compares the correlation and difference between the data at different times in the histogram.
 
 * Heat maps: The heatmap visualization technology displays car collision phenomena as two-dimensional colors of different intensities. Geographical locations with frequent car collisions show stronger colors, while road sections with fewer collisions show weaker colors. Heatmap conveys information about the density of car crashes to the user.
 
