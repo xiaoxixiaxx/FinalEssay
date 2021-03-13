@@ -44,7 +44,7 @@ The data created on October 15, 2020, updated on December 31, 2020.
 * The data comes from [data.seattle.gov](https://data.seattle.gov/dataset/Collisions/nuam-5pkc)
 * Publisher: Seattle IT
 * Dataset Owner: Seattle City GIS Program
-* Data processing: Use Python to grab the available data we need from raw data, such as all data about car crash information from 2018 to 2020. Use QGIS to convert the available data into shapefile types and generate tile layers of raster format, such as basemaps and heatmaps.
+* Data processing: Use Python to grab the available data we need from raw data, such as all data about car crash information from 2018 to 2020. Use QGIS and SQL filtering to convert the available data into shapefile types and generate tile layers of raster format, such as basemaps and heatmaps.
 * Data Format：CSV format, Shapefile format, raster format.
 
 ## Systematic architecture
