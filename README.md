@@ -32,7 +32,7 @@ The goal of this Seattle car collisions project comes from thinking about these 
 * Embedded linking
 
 ### D. the audience
-The intended audience would be citizen. They can learn which road sections are dangerous. In addition, groups concerned about how covid-19 affects people’s lives will also be interested in this project. The dashboard would be used by Traffic Administration, Urban Planning Bureau, Government department, NHTSA as well. The visualized digital geography and data in the project may become a reference for their social survey. And the visualized information of the project may also be helpful to related institutions, laboratories, or companies engaged in autonomous driving technology research.
+The intended audience would be citizen. They can learn which road sections are dangerous. Groups concerned about how covid-19 affects people’s lives would be also interested in this project. In addition, the dashboard would be used by Traffic Administration, Urban Planning Bureau, Government department, NHTSA as well. The visualized digital geography and data in the project may become a reference for their social survey. And the visualized information of the project may also be helpful to related institutions, laboratories, or companies engaged in autonomous driving technology research.
 
 ### E. the authors
 This project was jointly completed by Jin Ning Huang and Xiaoxi Xia. 
