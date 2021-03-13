@@ -15,11 +15,9 @@ The goal of this Seattle car collisions project comes from thinking about these 
 
 ### B. the major functions
 
-* Thematic Maps & Interactive Elements
-* Heat maps
-* Side Panel & chart (Interactive Elements)
-* Basemaps
-* Responsive Design
+* Side Panel & chart (responsive design): The interactive Side Panel displays the specific data of car collision from 2018 to 2020 each year, and users can switch options to view. The Chart with responsive design displays the car collision information for each month of three years and compares the correlation and difference between the data at different times in the histogram.
+* Heat maps: The heatmap visualization technology displays car collision phenomena as two-dimensional colors of different intensities. Geographical locations with frequent car collisions show stronger colors, while road sections with fewer collisions show weaker colors. Heatmap conveys information about the density of car crashes to the user.
+* Thematic Maps & Interactive Elements: The design that fits the car collision theme reflects the visual effect. The thematic map highlights the city's traffic roads and shows the specific geographic location of the car collision. The Interactive function allows users to select different themed maps. It is designed by MapBox Studio. 
 
 ### C. list any web map element in use
 * Title
