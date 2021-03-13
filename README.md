@@ -21,7 +21,7 @@ The goal of this Seattle car collisions project comes from thinking about these 
 
 * Thematic Maps & Interactive Elements: The design that fits the car collision theme reflects the visual effect. The thematic map highlights the city's traffic roads and shows the specific geographic location of the car collision. The Interactive function allows users to select different themed maps. It is designed by MapBox Studio. 
 
-### C. list any web map element in use
+### C. list of web map element in use
 * Title
 * Toggle full screen
 * Scalebar
