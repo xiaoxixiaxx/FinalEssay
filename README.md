@@ -21,20 +21,20 @@ The goal of this Seattle car collisions project comes from thinking about these 
 
 * Thematic Maps & Interactive Elements: The design that fits the car collision theme reflects the visual effect. The thematic map highlights the city's traffic roads and shows the specific geographic location of the car collision. The Interactive function allows users to select different themed maps. It is designed by MapBox Studio. 
 
-### C. list of web map element in use
+### C. list of the web map element
 * Title
 * Toggle full screen
 * Scalebar
 * Legend
 * Basemap switcher
 * Zoom in/out.
-* Clickable Side panel
+* Clickable side panel
 * Embedded linking
 
 ### D. the audience
 The intended audience would be citizen. They can learn which road sections are dangerous. In addition, groups concerned about how covid-19 affects people’s lives will also be interested in this project. The dashboard would be used by Traffic Administration, Urban Planning Bureau, Government department, NHTSA as well. The visualized digital geography and data in the project may become a reference for their social survey. And the visualized information of the project may also be helpful to related institutions, laboratories, or companies engaged in autonomous driving technology research.
 
-### E. the authors and their affiliations
+### E. the authors
 This project was jointly completed by Jin Ning Huang and Xiaoxi Xia. 
 
 ### F. the data collected date
